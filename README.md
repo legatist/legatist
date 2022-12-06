@@ -1,4 +1,4 @@
-[마케팅](https://legatist.github.io/legatist/privacy_policy.html)
+[마케팅](https://legatist.github.io/legatist/marketing.html)
 
 [개인정보 수집 및 이용](https://legatist.github.io/legatist/privacy.html)
 
